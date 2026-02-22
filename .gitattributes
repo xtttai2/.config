@@ -1,0 +1,5 @@
+# Keep config files consistent across OSes
+*.lua  text eol=lf
+*.json text eol=lf
+*.vim  text eol=lf
+*.md   text eol=lf
